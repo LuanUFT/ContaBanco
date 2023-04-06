@@ -1,5 +1,7 @@
 package semana4;
-
+//basic
+//midia
+//turbo
 public class ResultadoEscola{
     public static void main(String[] args) {
         int nota = 6;
