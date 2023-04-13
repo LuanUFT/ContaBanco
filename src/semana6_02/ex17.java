@@ -8,7 +8,7 @@ public class ex17 {
         System.out.println("Qual a velocidade do carro? ");
         double velocidade = leitor.nextDouble();
         if (velocidade > 80) {
-            double multa = (velocidade - 80) * 5;
+            double multa = (velocidade) * 5;
             System.err.println("Voce foi multado em R$" + multa);
         } else {
             System.out.println("Velocidade ok");
