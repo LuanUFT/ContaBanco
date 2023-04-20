@@ -14,10 +14,10 @@ public class Cozinheiro {
         adicionarLancheNoBalcao();
         adicionarSucoNoBalcao();
     }
-    public void prepararLanche(){
+     void prepararLanche(){
         System.out.println("PREPARANDO LANCHE TIPO HAMBURGUER");
     }
-    public void prepararVitamina(){
+     void prepararVitamina(){
         System.out.println("PREPARANDO VITAMINA");
     }
     public void prepararCombo(){
@@ -39,10 +39,10 @@ public class Cozinheiro {
     public void fritarIngredientesLanche(){
         System.out.println("FRITANDO A CARNE E OVO PARA O HAMBÚRGUER");
     }
-    public void pedirParaTrocarGas(Atendente meuAmigo){
+   /* public void pedirParaTrocarGas(Atendente meuAmigo){
         meuAmigo.trocarGas();
     }
     public void pedirParaTrocarGas(Almoxarife meuAmigo){
         meuAmigo.trocarGas();
-    }
+    }*/
 }
