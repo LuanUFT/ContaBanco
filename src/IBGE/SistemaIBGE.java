@@ -1,3 +1,5 @@
+package IBGE;
+
 public class SistemaIBGE {
     public static void main(String[] args) {
         for (EstadosDoBrasil e: EstadosDoBrasil.values()){

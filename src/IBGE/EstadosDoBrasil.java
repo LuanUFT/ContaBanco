@@ -1,3 +1,5 @@
+package IBGE;
+
 public enum EstadosDoBrasil {
     SAO_PAULO ("SP", "Sao Paulo", 3),
     RIO_JANEIRO ("RJ", "Rio de Janeiro", 5),
